@@ -5,7 +5,6 @@ from datetime import datetime
 import numpy as np
 import requests
 import base64
-import creds
 from dotenv import load_dotenv
 import os
 
